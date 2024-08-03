@@ -356,7 +356,7 @@ export const projects = [
     description:
       "This is a web application (SPA) built using Angular, aimed at streamlining the process of managing product orders. The application provides a user-friendly interface for adding, viewing, editing product orders.",
     image:
-      "https://github.com/DipeshMate/Angular-Assignment/blob/master/thumbnail.png",
+      "https://raw.githubusercontent.com/DipeshMate/Angular-Assignment/master/thumbnail.png",
     tags: ["Angular", "typescript", "karma-testing","axios","bootstrap"],
     category: "internship",
     github: "https://github.com/DipeshMate/Angular-Assignment",
