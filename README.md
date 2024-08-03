@@ -69,12 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### to Update repository
-git status
-git add .
-git commit -m "Enter Your Commit Message" 
+### To Upload Project Constants on Repository
+git status \
+git add . \
+git commit -m "Enter Your Commit Message" \
 git push -u origin main
 
-// if error come - Message 'src refspec master does not match any' when pushing commits in Git.
-// first check your project repository is it in main or master..
+// if error come - Message 'src refspec master does not match any' when pushing commits in Git. \
+// first check your project repository is it in main or master... \
 git push origin main --force 
