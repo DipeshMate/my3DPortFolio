@@ -199,7 +199,7 @@ export const education = [
     school: "Harcourt Butler Technical University, Kanpur, Uttarpradesh",
     date: "Oct 2022 - May 2024",
     grade: "68.60% / 7.6 CGPA",
-    desc: "I am recently Completed my Master's degree in Computer Application at Harcourt Butler Technical University, Kanpur Where I have completed 4 semesters and have a overall CGPA of 7.61. I have taken courses in Data Structures & Algorithms, Machine Learning, Artificial Intelligence, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. In addition, I was elected to serve as Mess Secretary of the HBTU West Campus Boys Hostel of 130 students, where I demonstrated my leadership skills, my ability to communicate effectively and my positive strategies to provide students with a healthy and nutritious meal.",
+    desc: "I recently Completed my Master's degree in Computer Application at Harcourt Butler Technical University, Kanpur Where I have completed 4 semesters and have a overall CGPA of 7.61. I have taken courses in Data Structures & Algorithms, Machine Learning, Artificial Intelligence, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. In addition, I was elected to serve as Mess Secretary of the HBTU West Campus Boys Hostel of 130 students, where I demonstrated my leadership skills, my ability to communicate effectively and my positive strategies to provide students with a healthy and nutritious meal.",
     degree: "Master of Computer Application - MCA",
   },
   {
@@ -348,6 +348,19 @@ export const projects = [
     github: "https://github.com/DipeshMate/My_Sparks_Foundation_internship_task/tree/main/Task-2",
     webapp: "https://payment-gateway-integration-psi-two.vercel.app/",
     video:"https://www.linkedin.com/feed/update/urn:li:activity:7118704334414000128/?originTrackingId=w%2BBtwK2wSvKy7wFnFbOXEw%3D%3D",
+  },
+  {
+    id: 9,
+    title: "Product-OrderList-Angular Internship Assignment",
+    date: "July 2024",
+    description:
+      "This is a web application (SPA) built using Angular, aimed at streamlining the process of managing product orders. The application provides a user-friendly interface for adding, viewing, editing product orders.",
+    image:
+      "https://github.com/DipeshMate/Angular-Assignment/blob/master/thumbnail.png",
+    tags: ["Angular", "typescript", "karma-testing","axios","bootstrap"],
+    category: "internship",
+    github: "https://github.com/DipeshMate/Angular-Assignment",
+    webapp: "https://product-order-list-angular-assignment.vercel.app/",
   },
 
 ];
